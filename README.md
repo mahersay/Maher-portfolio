@@ -1,2 +1,36 @@
-# Maher-portfolio
-Personal portfolio showcasing my projects in software development, AI, data analysis, networking, and embedded systems, including hardware-integrated solutions and real-world engineering applications.
+# Maher Al Sayegh – Engineering Portfolio
+Computer and Communication Engineering graduate with a strong foundation in software development, networking, and embedded systems. Passionate about building real-world engineering solutions and continuously learning new technologies.
+
+---
+
+## 🔧 Skills
+- **Programming:** Python, Java, C++, MATLAB  
+- **Software Development:** OOP, Data Structures, Backend Basics  
+- **Networking:** TCP/IP Fundamentals  
+- **Embedded Systems:** Arduino, Sensors Integration  
+- **Tools:** Jupyter Notebook, VS Code, MATLAB  
+
+---
+
+## 📂 Projects
+
+### 🧠 Brainterpreter (AI + Embedded Systems)
+Software project involving signal processing, data analysis, and visualization integrated with embedded systems for smart environment control.
+---
+### 📊 Data Visualization Dashboard
+Developed a Python-based dashboard to visualize and analyze data from embedded systems using data processing and visualization techniques.
+---
+### 📱 Mobile Application (Event Finder)
+Built a mobile application that allows users to explore and filter local events with user-friendly interaction and basic database integration.
+---
+### 🌐 Digital Communication System (TCP/IP)
+MATLAB-based application implementing transmission of audio, image, and signal data using networking and encoding techniques.
+---
+
+## 🚀 About Me
+I am a motivated junior engineer with a strong problem-solving mindset, eager to grow in software and AI-related roles while contributing to impactful projects.
+---
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/maher-alsayegh-286793268
+- Email: maheralsayegh.ms@gmail.com
