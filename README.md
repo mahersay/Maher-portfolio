@@ -18,7 +18,8 @@ Computer and Communication Engineering graduate with a strong foundation in soft
 
 ### 🧠 Brain Interpreter (AI + Embedded Systems)
 Software project involving signal processing, data analysis, and visualization integrated with embedded systems for smart environment control.  
-🔗 https://github.com/mahersay/BrainInterpreter
+🔗 https://github.com/mahersay/Brainterpreter
+
 
 ---
 
