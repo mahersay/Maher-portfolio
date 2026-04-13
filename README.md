@@ -1,9 +1,11 @@
 # Maher Al Sayegh – Engineering Portfolio
+
 Computer and Communication Engineering graduate with a strong foundation in software development, networking, and embedded systems. Passionate about building real-world engineering solutions and continuously learning new technologies.
 
 ---
 
 ## 🔧 Skills
+
 - **Programming:** Python, Java, C++, MATLAB  
 - **Software Development:** OOP, Data Structures, Backend Basics  
 - **Networking:** TCP/IP Fundamentals  
@@ -14,23 +16,31 @@ Computer and Communication Engineering graduate with a strong foundation in soft
 
 ## 📂 Projects
 
-### 🧠 Brainterpreter (AI + Embedded Systems)
-Software project involving signal processing, data analysis, and visualization integrated with embedded systems for smart environment control.
+### 🧠 Brain Interpreter (AI + Embedded Systems)
+Software project involving signal processing, data analysis, and visualization integrated with embedded systems for smart environment control.  
+🔗 https://github.com/mahersay/BrainInterpreter
+
 ---
+
 ### 📊 Data Visualization Dashboard
-Developed a Python-based dashboard to visualize and analyze data from embedded systems using data processing and visualization techniques.
+Developed a Python-based dashboard to visualize and analyze data using Pandas, Matplotlib, and Tkinter for interactive data exploration.  
+🔗 https://github.com/mahersay/Data-Visualization-Dashboard
+
 ---
-### 📱 Mobile Application (Event Finder)
-Built a mobile application that allows users to explore and filter local events with user-friendly interaction and basic database integration.
----
+
 ### 🌐 Digital Communication System (TCP/IP)
-MATLAB-based application implementing transmission of audio, image, and signal data using networking and encoding techniques.
+MATLAB-based application implementing transmission of audio, image, and signal data using PCM/DPCM encoding and TCP/IP client-server communication.  
+🔗 https://github.com/mahersay/Digital-Communication-System
+
 ---
 
 ## 🚀 About Me
-I am a motivated junior engineer with a strong problem-solving mindset, eager to grow in software and AI-related roles while contributing to impactful projects.
+
+I am a motivated junior engineer with a strong problem-solving mindset, eager to grow in software and AI-related roles while contributing to impactful engineering projects.
+
 ---
 
 ## 📫 Contact
-- LinkedIn: www.linkedin.com/in/maher-alsayegh-286793268
+
+- LinkedIn: https://www.linkedin.com/in/maher-alsayegh-286793268  
 - Email: maheralsayegh.ms@gmail.com
